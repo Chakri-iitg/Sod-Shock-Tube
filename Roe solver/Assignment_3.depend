@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1682485178 source:c:\users\chakr\onedrive\desktop\computational gas dynamics\assignment_3\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<bits/stdc++.h>
+
+1682685411 source:c:\users\chakr\onedrive\desktop\computational gas dynamics\assignment_3\roe solver\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<bits/stdc++.h>
+
